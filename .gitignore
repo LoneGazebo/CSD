@@ -13,6 +13,12 @@
 *.dylib
 *.dll
 
+# Data files for DLL
+*.h
+*.cpp
+*.lua
+*.xml
+
 # Fortran module files
 *.mod
 
